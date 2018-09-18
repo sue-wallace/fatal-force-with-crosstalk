@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537297286579.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EE9BB6BE",
+    "lastKnownWriteTime" : 1537297471,
+    "last_content_update" : 1537297471978,
+    "path" : "~/Documents/R_Projects/police_shooting_gh/00. tidy data.R",
+    "project_path" : "00. tidy data.R",
+    "properties" : {
+        "cursorPosition" : "104,47",
+        "scrollLine" : "90"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

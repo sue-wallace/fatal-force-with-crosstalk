@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537297474092.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7D09073D",
+    "lastKnownWriteTime" : 1537297608,
+    "last_content_update" : 1537297608289,
+    "path" : "~/Documents/R_Projects/police_shooting_gh/01. crosstalk.Rmd",
+    "project_path" : "01. crosstalk.Rmd",
+    "properties" : {
+        "cursorPosition" : "311,39",
+        "scrollLine" : "310"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
