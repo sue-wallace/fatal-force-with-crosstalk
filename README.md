@@ -1,7 +1,9 @@
 # fatal-force-with-crosstalk
 Creating an interactive html dashboard using crosstalk which details police shootings in the United States between 2015 and 2018.
 
-The Markdown script can be used to create a html dashboard containing summary statistics of fatal police shootings in the United States between 2015 and 2018.
+The Markdown script can be used to create a html dashboard containing summary which details a map powered by leaflet as well as plots generated ggplot2. 
+
+[Crosstalk](https://rstudio.github.io/crosstalk/) developed by [Joe Cheng](https://twitter.com/jcheng?lang=en) extends html widgets with interactivity using sliders, radio buttons and filters. 
 
 ## Getting Started
 
@@ -28,6 +30,10 @@ This dashboard was developed on 16th September 2018, and therefor is a snapshot 
 Geographical information donates the city that the shooting took place, but not the exact location. Some 403 shootings had incomplete location data. 
 
 Note that are there is only three full years' worth of data within this analysis that is it difficult to draw conclusions on trends over time. 
+
+## Acknowledgments
+
+Thanks to [Matt Dray](https://github.com/matt-dray/earl18-crosstalk) for the really great presentation at the London Earl Conference. 
 
 
 
