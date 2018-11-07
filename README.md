@@ -29,7 +29,7 @@ This dashboard was developed on 16th September 2018, and therefor is a snapshot 
 
 Geographical information donates the city that the shooting took place, but not the exact location. Some 403 shootings had incomplete location data. 
 
-Note that are there is only three full years' worth of data within this analysis that is it difficult to draw conclusions on trends over time. 
+Note that are there are only three full years' worth of data within this analysis that is it difficult to draw conclusions on trends over time. 
 
 ## Acknowledgments
 
